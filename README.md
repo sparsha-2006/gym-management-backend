@@ -1,5 +1,7 @@
 # Gym Membership Management Backend
 
+Postman screenshots and demovideo link 
+https://drive.google.com/drive/folders/1FwXirgOzK2ehfELEkmkjYZZLWTAE6qMQ?usp=sharing
 ## Project Overview
 This project is a secure and scalable Gym Membership Management Backend System developed using Node.js, Express.js, MongoDB, and JWT Authentication.
 
